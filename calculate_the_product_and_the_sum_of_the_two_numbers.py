@@ -1,0 +1,1 @@
+# This aims to calculate the product and sum of the two given numbers
